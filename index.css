@@ -1,0 +1,30 @@
+
+
+@media (max-width=767px)
+ {
+    .photo {
+        margin-top: 40px;
+            display: flex;
+            gap: 20px;
+            border-radius: 20px;
+            width: 50%;
+            height: 300px;
+        }
+        .text{
+            text-align: center;
+        }
+        
+
+    
+}
+.hidden {
+    display: none !important;
+}
+
+.button{
+    background-color: rgb(119, 232, 27);
+    align-content:  center;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
